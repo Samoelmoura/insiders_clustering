@@ -1,6 +1,8 @@
 # Insiders Clustering
 
-Este projeto tem como objetivo descobrir grupos similares de clientes, para auxiliar na criação de um programa de fidelidade com ações personalizadas, focadas em cada grupo de clientes, dadas as suas particularidades e valores para a empresa.
+Descobrindo grupos similares de clientes para a criação de um programa de fidelidade com ações personalizadas, focadas em cada grupo de clientes, dadas as suas particularidades e valores para a empresa.
+
+![](img/capa_readme.jpg)
 
 #### This project was made by Samoel de Moura.
 
@@ -25,3 +27,6 @@ Este projeto tem como objetivo descobrir grupos similares de clientes, para auxi
 # 10. Próximos Passos
 
 # 11. Deploy
+
+# 12. Status do Projeto
+![](img/project_status.jpg)
